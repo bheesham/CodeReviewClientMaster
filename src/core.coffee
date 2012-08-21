@@ -7,7 +7,7 @@
  	@author Alexis Beingessner
  	@author Christian Delahousse
  	@author Simon Pratt <spratt@scs.carleton.ca>
- 	@author Bheesham Persaud <bnpersau@scs.carleton.ca>
+ 	@author Bheesham Persaud <bheesham.persaud@live.ca>
 ###
 
 # NOTE: All of the functions here still need work.
