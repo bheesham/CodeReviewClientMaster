@@ -4,3 +4,6 @@ do/
 
 # Removed the shortcut
 include/CodeMirror
+
+# Remove the compiled scripts, you have to compile them yourselves
+js-new/*
